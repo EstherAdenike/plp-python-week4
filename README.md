@@ -1,6 +1,4 @@
-Here’s a clean `README.md` you can use for your program 👇
 
-```markdown
 # File Read & Write Challenge 🖋️ + Error Handling Lab 🧪
 
 This project demonstrates how to work with files in Python:
@@ -109,10 +107,3 @@ No external dependencies are required.
 ## 📜 License
 
 This project is for learning purposes and has no specific license.
-
-```
-
----
-
-Would you like me to also include a **step-by-step explanation of the Python code inside the README**, so beginners understand *why* each part is written that way?
-```
